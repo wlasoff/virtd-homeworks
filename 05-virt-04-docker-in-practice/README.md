@@ -12,6 +12,8 @@
 
 ---
 
+![z24](https://github.com/wlasoff/netology-devops-home-git-tools/blob/main/img/z24.png)
+
 ## Задача 0
 1. Убедитесь что у вас НЕ(!) установлен ```docker-compose```, для этого получите следующую ошибку от команды ```docker-compose --version```
 ```
